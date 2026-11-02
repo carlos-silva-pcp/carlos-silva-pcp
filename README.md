@@ -2,7 +2,7 @@
 
 ### 🏭 PCP | 💻 Programação | 📊 Análise de Dados | ⚙️ Automação
 
-Sou formado em **Desenvolvimento Web Full-Stack** pela [Trybe](https://www.betrybe.com/) e atualmente trabalho como **Auxiliar de PCP (Planejamento e Controle da Produção)** na [Topema Innovations](https://www.topema.com/).
+Sou formado em **Desenvolvimento Web Full-Stack** pela [Trybe](https://www.betrybe.com/) - veja minha tragetória no curso [Aqui](https://github.com/kadu-da-silva) - e atualmente trabalho como **Auxiliar de PCP (Planejamento e Controle da Produção)** na [Topema Innovations](https://www.topema.com/).
 
 Sou apaixonado por tecnologia e pelo ambiente industrial. Meu principal objetivo é unir esses dois universos, utilizando programação, análise de dados e automação para otimizar processos produtivos e apoiar decisões mais eficientes.
 
